@@ -9,7 +9,7 @@
 
 - 👯 I’m mostly interested in **any Java, AWS and Python projects**
 
-- 👨‍💻 All of my projects are available at [https://jj110178.github.io/portfolio/](https://jj110178.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/jj110178/](https://github.com/jj110178/)
 
 - 📝 Favorite tech blog [TLDR](TLDR)
 
